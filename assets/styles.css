@@ -12,5 +12,12 @@ header {
 } 
 body {
     background: gray;
-    min-height: 100%;
 } 
+footer {
+    padding: 60px;
+    text-align: right;
+    background: #13293d;
+    color: #fff;
+    position: absolute; bottom: 0;
+    width: 100%;
+}
