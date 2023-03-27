@@ -1,22 +1,27 @@
 nav {
     padding: 40px;
     text-align: right;
-    background: #13293d;
+    background: #428ed5;
     color: #fff;
+    justify-content: space-between;
   }
+
 header {
     padding: 70px;
     text-align: end;
     background: aqua;
     color: #000;
 } 
+
 body {
-    background: gray;
+    background: rgb(190, 192, 221);
+
 } 
+
 footer {
     padding: 60px;
     text-align: right;
-    background: #13293d;
+    background: #3c82c5;
     color: #fff;
     position: absolute; bottom: 0;
     width: 100%;
