@@ -15,12 +15,19 @@
     font-size: 100%;
   }
   @media screen and (max-width:992px){
-    .card {
-        width:45%;
+    .boxes {
+        width:50%;
     }
 }
 @media screen and (max-width:768px){
-    .card {
+    .boxes {
         width:90%;
     }
 }
+@media screen and (max-width: 768px) {
+  main,
+  nav {
+    flex-direction: column;
+  }
+}
+
