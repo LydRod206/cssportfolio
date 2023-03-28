@@ -27,3 +27,5 @@ To complete this project I used the following websites and reasources:
 [label](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 [label](https://www.joshwcomeau.com/css/custom-css-reset/)
 [label](https://validator.w3.org/#validate_by_input)
+
+![Alt text](/assets/IMG_1616.JPG)
